@@ -1,0 +1,30 @@
+# Red Team Arsenal .gitignore
+
+# Sensitive data
+*.pcap
+*.cap
+loot/
+logs/
+reports/
+*.db
+*.sqlite
+credentials.txt
+hashes.txt
+passwords.txt
+
+# Tool outputs
+*.log
+*.txt
+*.csv
+*.json
+*.xml
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+ENV/
+
+# OS
+.DS_Store
+Thumbs.db
